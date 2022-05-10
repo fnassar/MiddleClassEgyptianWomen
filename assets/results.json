@@ -1,0 +1,24 @@
+{
+    "sector": {
+        "public": 73.3,
+        "private": 26.7
+    },
+    "men/women": {
+        "payGap": 2.73,
+        "number": 3.33,
+        "accepting new employees": 3.0,
+        "task difficulty": 3.33,
+        "treatment and expectations": 3.0,
+        "expectations": 3.27,
+        "value": 3.20,
+        "bonuses": 2.73,
+        "burnout(home and work)": 4.27,
+        "expected work hours": 2.4
+    },
+    "yes/no": {
+        "less balance(home & work)": 3.53,
+        "selfemployment": 3.33,
+        "pregnancy": 3.13
+    }
+
+}
